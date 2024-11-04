@@ -1,10 +1,10 @@
 # Depi
 ## Members of team : 
-Amr Awad
-Maryam Eslam
-Mohamamed Ali
-Menna Ateya
-Bassel Yousef
+-Amr Awad
+-Maryam Eslam
+-Mohamamed Ali
+-Menna Ateya
+-Bassel Yousef
 ## Sales Analysis Project
 
 ### Overview
